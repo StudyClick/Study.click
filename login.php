@@ -10,7 +10,7 @@
 <body>
   <div class="login-card">
     <p> "A língua é o nosso primeiro universo"</p>
-    <img src="logo2.png" alt="Logo do Study Click">
+    <img src= "Logoatualizada.png" alt="Logo do Study Click">
     <h1>Login</h1>
     <input type="text" placeholder="Nome">
     <input type="password" placeholder="Senha">

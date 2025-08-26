@@ -62,3 +62,7 @@ body {
   .form{
     text-align:left;
   }
+  .img {
+    text-align: center;
+    border-width: 8px;
+  }
